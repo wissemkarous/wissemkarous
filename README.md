@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm WISSEM KAROUS</h1>
+<br/>  
 
-![](https://komarev.com/ghpvc/?username=wissemkarous)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 <h3 align="center">Telecommunications engineering student |Ai&Data science Enthousiast |FROM TUNISIA</h3>
 
@@ -38,11 +44,4 @@
 ![wissemkarous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissemkarous&theme=default&show_icons=true&hide_border=true&layout=compact)
 <br/>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
