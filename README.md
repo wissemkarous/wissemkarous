@@ -36,3 +36,19 @@
 
 
 ![wissemkarous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissemkarous&theme=default&show_icons=true&hide_border=true&layout=compact)
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/wissemkarous" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a>
+            <a href="https://ko-fi.com/wissemkarous" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a></div>
+<br />
