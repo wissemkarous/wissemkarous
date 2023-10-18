@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm WISSEM KAROUS</h1>
+<h1 align="center">![](https://komarev.com/ghpvc/?username=wissemkarous)
+</h1>
 
-![](https://komarev.com/ghpvc/?username=wissemkarous)
 
 <h3 align="center">Telecommunications engineering student |Ai&Data science Enthousiast |FROM TUNISIA</h3>
 
