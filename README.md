@@ -4,15 +4,31 @@
 
 <h3 align="center">Telecommunications engineering student |Ai&Data science Enthousiast |FROM TUNISIA</h3>
 
-- 🤝 I’m looking for : **internship**
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/wissemkarous" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/wissem-karous-32b4b6225/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/https://www.kaggle.com/wissemkarous" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/wissem.karous" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/karous_wissem/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-- 👨‍💻 All of my projects are available : [HERE](HERE)
+<br/>  
 
-- 📫 How to reach me :https://www.linkedin.com/in/wissem-karous-32b4b6225/
-
-- 📄 Know about my experiences :https://www.linkedin.com/in/wissem-karous-32b4b6225/
-
-- ⚡ Quote : **"Success is not final; failure is not fatal: it is the courage to continue that counts."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
