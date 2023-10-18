@@ -8,13 +8,9 @@
 
 - 👨‍💻 All of my projects are available : [HERE](HERE)
 
-- 📝 I regularly write articles on: [3asfa.tn](3asfa.tn)
+- 📫 How to reach me :https://www.linkedin.com/in/wissem-karous-32b4b6225/
 
-- 💬 Ask me about **Anything u want "wlc ya lkhawa Dyeli "**
-
-- 📫 How to reach me **wissemkar203@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFfaolrKcw/oy5Fu0R8SiiMc2UQe6HJtg/edit?utm_content=DAFfaolrKcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFfaolrKcw/oy5Fu0R8SiiMc2UQe6HJtg/edit?utm_content=DAFfaolrKcw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences :https://www.linkedin.com/in/wissem-karous-32b4b6225/
 
 - ⚡ Quote : **"Success is not final; failure is not fatal: it is the courage to continue that counts."**
 
