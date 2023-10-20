@@ -45,4 +45,4 @@
 <br/>  
 
 
-[](https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=dracula)https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=onedark)](https://github.com/wissemkarous/github-profile-trophy)
