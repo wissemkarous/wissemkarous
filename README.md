@@ -8,7 +8,7 @@
 
 <br/>  
 
-<h3 align="center">Telecommunications engineering student |Ai&Data science Enthousiast |FROM TUNISIA 🇹🇳 </h3>
+<h3 align="center">Telecommunications Engineering Student |Ai&Data science Enthousiast |FROM TUNISIA 🇹🇳 </h3>
 
 ## Connect with me   :
 <div align="center">
