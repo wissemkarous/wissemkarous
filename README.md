@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" />
 </div>  
-[![committers.top badge](https://user-badge.committers.top/tunisia/WISSEMKAROUS.svg)](https://user-badge.committers.top/tunisia/WISSEMKAROUS)
+
 
 
 
