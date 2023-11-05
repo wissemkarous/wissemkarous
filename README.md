@@ -5,7 +5,7 @@
 </div>  
 <br/>  
 <p align="center">
-  <img src="https://github.com/wissemkarous/wissemkarous/blob/44916a95b33defb8c926f1d49299e4959ec45bd5/techstack.gif" alt="Description de l'image" heigth =600 width="100">
+  <img src="https://github.com/wissemkarous/wissemkarous/blob/44916a95b33defb8c926f1d49299e4959ec45bd5/techstack.gif" alt="Description de l'image" heigth =600 width="400">
 </p>
 
 <br/>   
