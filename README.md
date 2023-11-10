@@ -48,6 +48,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=onedark)](https://github.com/wissemkarous/github-profile-trophy) <br/>  
+[![wissem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wissemkarous&theme=dracula)](https://github.com/wissemkarous/github-readme-activity-graph)
 <br/>  
 
 [![committers.top badge](https://user-badge.committers.top/tunisia/wissemkarous.svg)](https://user-badge.committers.top/tunisia/wissemkarous)
