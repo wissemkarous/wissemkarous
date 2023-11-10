@@ -5,7 +5,7 @@
 </div>   
 <br/>   
 <p align="center"> 
-  <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" heigth =600 width="300">
+  <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image"">
 </p>
 
 
