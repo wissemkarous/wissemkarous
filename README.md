@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">Telecommunications Engineering Student |Ai&Data science Enthousiast |FROM TUNISIA 🇹🇳 </h3>
+<h3 align="center">ICTE Student | AI Developer | TensorFlow & Python Specialist |FROM TUNISIA 🇹🇳 </h3>
 <br/> 
 
 ## Connect with me   :
