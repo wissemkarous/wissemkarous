@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm WISSEM KAROUS</h1>     
 <br/>     
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" alt="Profile Views" align="center" /> 
+  <img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" /> 
 </div>   
 <br/>   
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<div style="display: flex; align-items: center; justify-content: center;">
   <!-- Text on the left -->
   <div style="flex: 2; padding-right: 20px;">
-    <h3>Glad to see you here!</h3>
+    <p>Glad to see you here!</p>
     <p>Here's a quick summary:</p>
     <ul>
       <li>Data Science MSc Student</li>
@@ -27,13 +27,11 @@
   </div>
 
   <!-- Image on the right -->
-  <div style="flex: 1; max-width: 300px;">
-    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="WISSEM KAROUS" style="width: 100%; height: auto; border-radius: 10px;" />
+  <div style="flex: 1; text-align: center;">
+    <img src="path-to-your-image.png" alt="Description de l'image" style="width: 250px; height: auto; border-radius: 8px;" />
   </div>
 </div>
 
-<h3 align="center">ICT MSc Student | AI Developer | TensorFlow & Python | FROM TUNISIA 🇹🇳 </h3>
-<br/> 
 
 ## Connect with me:
 <div align="center">
