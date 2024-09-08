@@ -5,7 +5,7 @@
 </div>   
 <br/>   
 <div align="right">
-    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" align="right" height="200" width="400" />
+    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" align="right" height="200" width="380" />
 </div>
 <!-- Main layout: Text on the left and Image on the right -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -60,6 +60,11 @@
   <a href="https://wissemkarous.github.io/Wissem.Karous-Portfolio/"target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  <!-- Added Gmail link -->
+  <a href="mailto:karouswissem@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>  
 
 <br/> 
