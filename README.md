@@ -5,12 +5,12 @@
 </div>   
 <br/>   
 <p align="center"> 
-  <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image"">
+  <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" style="width: 400px; height: auto;">
 </p>
 
 
 
-<h3 align="center">ICTE Student | AI Developer | TensorFlow & Python Specialist |FROM TUNISIA 🇹🇳 </h3>
+<h3 align="center">ICT MSc Student | AI Developer | TensorFlow & Python |FROM TUNISIA 🇹🇳 </h3>
 <br/> 
 
 ## Connect with me   :
