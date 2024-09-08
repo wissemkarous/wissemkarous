@@ -4,7 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" /> 
 </div>   
 <br/>   
-
+<div align="right">
+    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" align="right" height="200" width="200" />
+</div>
 <!-- Main layout: Text on the left and Image on the right -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -19,19 +21,17 @@
       (4+ months, starting Feb 2025)</li>
     </ul>
     
-    <p>Experience:</p>
-    <ul>
-      <li>AI Engineer Intern @Spark-it - Summer 2024</li>
-      <li>Data Science Intern @InnoDeep - Summer 2023</li>
-      <li>Team Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
-      <li>AI Department Lead @Tunisian Space Association (TUNSA) ENETCOM - 23/24</li>
-    </ul>
+   
   </div>
-
+   <p>Experience:</p>
+      <ul>
+        <li>AI Engineer Intern @Spark-it - Summer 2024</li>
+        <li>Data Science Intern @InnoDeep - Summer 2023</li>
+        <li>Team Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
+        <li>AI Department Lead @Tunisian Space Association (TUNSA) ENETCOM - 23/24</li>
+      </ul>
   <!-- Image on the right -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" style="width: 300px; height: auto; border-radius: 8px;" />
-  </div>
+  
 </div>
 
 
