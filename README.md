@@ -52,6 +52,14 @@
   <a href="https://leetcode.com/wissemkarous/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
   </a>
+   <!-- Added Hugging Face account link -->
+  <a href="https://huggingface.co/wissemkarous" target="_blank">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-f9e03b?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" style="margin-right: 10px;" />
+  </a>
+  <!-- Added Portfolio link -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </div>  
 
 <br/> 
