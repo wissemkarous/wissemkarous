@@ -6,13 +6,8 @@
 <br/>   
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Image on the left -->
-  <div style="flex: 1; max-width: 300px;">
-    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="WISSEM KAROUS" style="width: 100%; height: auto; border-radius: 10px;" />
-  </div>
-
-  <!-- Text on the right -->
-  <div style="flex: 2; padding-left: 20px;">
+  <!-- Text on the left -->
+  <div style="flex: 2; padding-right: 20px;">
     <h3>Glad to see you here!</h3>
     <p>Here's a quick summary:</p>
     <ul>
@@ -29,6 +24,11 @@
       <li>Team Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
       <li>AI Department Lead @Tunisian Space Association (TUNSA) ENETCOM - 23/24</li>
     </ul>
+  </div>
+
+  <!-- Image on the right -->
+  <div style="flex: 1; max-width: 300px;">
+    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="WISSEM KAROUS" style="width: 100%; height: auto; border-radius: 10px;" />
   </div>
 </div>
 
